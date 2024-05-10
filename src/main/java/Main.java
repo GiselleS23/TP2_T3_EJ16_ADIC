@@ -1,4 +1,5 @@
-/* 16.- Escriba un diagrama que genere N números aleatorios. */
+/* 16- Escriba un diagrama que genere N números aleatorios.
+Sacchetti Maria Giselle C2*/
 
 import java.util.Random;
 import java.util.Scanner;
